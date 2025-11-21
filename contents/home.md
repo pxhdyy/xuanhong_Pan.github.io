@@ -3,7 +3,7 @@
 I obtained my Bachelor's degree in Computer Science and Technology from China University of Geosciences (Beijing) in June 2025, and I am currently pursuing a Master's degree at Wuhan University.
 
 #### Email  
-<code>cs_Pan@whu.edu.cn</code>  
+<code>xuanhong_Pan@whu.edu.cn</code>  
 
 
 #### Education  
