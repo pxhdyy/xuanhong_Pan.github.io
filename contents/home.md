@@ -10,7 +10,7 @@ I obtained my Bachelor's degree in Computer Science and Technology from China Un
 **Wuhan University**, Master of CS (2025 – 2028)  
 
 
-**China University of Geosciences (Beijing)**, Honours Bachelor of Artificial Intelligence (2021 – 2025)  
+**China University of Geosciences (Beijing)**, Honours Bachelor of CS (2021 – 2025)  
 • GPA: 3.86/4 (top 1.3%)  
 
 #### Research Interests  
