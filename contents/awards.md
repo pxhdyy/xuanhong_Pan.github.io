@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 本科生国家奖学金, 2024.
+- Outstanding graduates of China University of Geosciences (Beijing)
+- The 22nd China Postgraduate Mathematical Modeling Contest, sponsored by Huawei | National third prize
